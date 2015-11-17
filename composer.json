@@ -13,7 +13,7 @@
             "baday\\package2\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "baday/package1": "dev-master"
     }
