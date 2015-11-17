@@ -16,11 +16,5 @@
     "minimum-stability": "stable",
     "require": {
         "baday/package1": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-                "url": "https://bagus_@bitbucket.org/bagus_/baday-package1.git"
-        }
-    ] 
+    }
 }
