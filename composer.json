@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "require": {
         "baday/package1": "~1",
-        "baday/paclage3": "dev-master"
+        "baday/package3": "dev-master"
     },
      "repositories": [
         {
