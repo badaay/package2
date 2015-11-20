@@ -15,6 +15,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "baday/package1": "dev-master"
+        "illuminate/support": "5.*"
     }
 }
