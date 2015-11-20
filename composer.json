@@ -16,12 +16,12 @@
     "minimum-stability": "dev",
     "require": {
         "baday/package1": "~1",
-        "baday/package4": "~1"
+        "baday/package3": "~1"
     },
      "repositories": [
         {
             "type": "vcs",
-            "url": "https://bagus_@bitbucket.org/bagus_/baday-package4.git"
+            "url": "https://bagus_@bitbucket.org/bagus_/baday-package3.git"
         }
     ]
 }
